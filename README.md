@@ -4,4 +4,3 @@
 - it tracks you help you track your habits and remind you of task
 -  more to come 
 
-Made by @khurrambhutto
