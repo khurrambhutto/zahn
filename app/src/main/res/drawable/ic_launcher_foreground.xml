@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- a checkmark inside a speech bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,36h40a6,6 0,0 1,6 6v22a6,6 0,0 1,-6 6H50l-10,9v-9h-6a6,6 0,0 1,-6 -6V42a6,6 0,0 1,6 -6z" />
+    <path
+        android:strokeColor="#2F5D50"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,53l7,7l15,-15" />
+</vector>
